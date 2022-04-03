@@ -2,14 +2,11 @@
 
 **Mutan.one** is a platform for creating NFT minting websites. NFT creators must have NFT from us as a blue-chip to build the minting website page.
 
+Why did we make this? We have seen so far, to creating an NFT minting website is not easy for NFT Creators. because not all NFT Creators understand coding or deploying a website, unless they have their own team.
 
-
-Why did we make this? We have seen so far, to creating an NFT minting website is not easy for NFT Creators. because not all NFT Creators understand coding or deploying a website, unless they have their own team.\
-
+![Mutan.one](.gitbook/assets/mutan\_one\_docs.png)
 
 Why should you use NFT to create a minting website? what we know is that NFT is a digital certificate, so we use this NFT as a sign of our membership.
-
-
 
 With this platform, We hope to reach many NFT creators to create their own web branding.
 
