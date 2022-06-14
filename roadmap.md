@@ -6,13 +6,13 @@ description: Mutan.one Roadmap 2022
 
 **Q1 (Done** ✅ **)**
 
-* Concept ✅&#x20;
-* Testnet ✅&#x20;
-* Launch Social Media ✅&#x20;
+* Concept
+* Testnet
+* Launch Social Media
 
 **Q2 (Ongoing** 🔄 **)**
 
-* Mainet Harmony ✅&#x20;
+* Mainet Harmony
 * Second Market
 
 **Q3 (Upcoming** ⏭  **)**
